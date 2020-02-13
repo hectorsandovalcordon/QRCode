@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+}
+#titulo{
+    align-items: center;
+}
+
+#item_txt{
+  width: 80%;
+}
+
+#codigoQR{
+  width: 256px;
+  height: 256px;
+  margin-top: 25px;
+  border: 2px solid #eee;
+}
